@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-google-genai
+bs4
+chromadb
+tqdm
+requests
+python-dotenv
