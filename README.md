@@ -75,7 +75,9 @@ python build_vectorstore.py
 🎯 Usage
 
 Select a PDF (vectorstore) from the dropdown.
+
 Ask a question in the chat input.
+
 Get context-based answers directly from the PDF.
 
 
