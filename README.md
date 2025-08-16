@@ -24,7 +24,7 @@ A **Retrieval-Augmented Generation (RAG) chatbot** built with **Streamlit**, **L
 
 ## 📸 App Screenshot
 
-![App_UI](assets/Screenshot 2025-08-16 224945.png)
+![App_UI](assets/Screenshot.png)
 
 ## 📂 Project Structure
 
