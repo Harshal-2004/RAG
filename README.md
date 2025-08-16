@@ -74,8 +74,44 @@ python build_vectorstore.py
 
 🎯 Usage
 
-Select a PDF (vectorstore) from dropdown.
-
+Select a PDF (vectorstore) from the dropdown.
 Ask a question in the chat input.
-
 Get context-based answers directly from the PDF.
+
+
+
+🤝 Contributing
+
+Contributions are welcome!
+Fork the repo
+Create a new branch (feature/your-feature)
+Commit changes and open a Pull Request
+
+📜 License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+🙌 Acknowledgements
+
+LangChain
+Groq
+HuggingFace
+FAISS
+Streamlit
+
+📧 Contact
+👤 Author: Harshal
+GitHub: Harshal-2004
+Email: harshalshirole14@gmail.com 
+
+
+---
+
+👉 This version is what companies usually expect:  
+✔️ Badges  
+✔️ License  
+✔️ Contributing  
+✔️ Contact  
+
+Would you like me to also **generate a LICENSE file (MIT)** for you so your repo looks 100% company-ready?
+
