@@ -83,9 +83,14 @@ Get context-based answers directly from the PDF.
 🤝 Contributing
 
 Contributions are welcome!
+
 Fork the repo
+
 Create a new branch (feature/your-feature)
+
 Commit changes and open a Pull Request
+
+
 
 📜 License
 
@@ -94,14 +99,22 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 🙌 Acknowledgements
 
 LangChain
+
 Groq
+
 HuggingFace
+
 FAISS
+
 Streamlit
+
+
 
 📧 Contact
 👤 Author: Harshal
+
 GitHub: Harshal-2004
+
 Email: harshalshirole14@gmail.com 
 
 
