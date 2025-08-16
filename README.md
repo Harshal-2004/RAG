@@ -69,7 +69,8 @@ GROQ_API_KEY=your_groq_api_key_here
 python build_vectorstore.py
 ```
 5️⃣ Run the Streamlit App
-```streamlit run main.py
+```
+streamlit run main.py
 ```
 
 🎯 Usage
