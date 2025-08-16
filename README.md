@@ -118,13 +118,3 @@ GitHub: Harshal-2004
 Email: harshalshirole14@gmail.com 
 
 
----
-
-👉 This version is what companies usually expect:  
-✔️ Badges  
-✔️ License  
-✔️ Contributing  
-✔️ Contact  
-
-Would you like me to also **generate a LICENSE file (MIT)** for you so your repo looks 100% company-ready?
-
