@@ -34,22 +34,26 @@ A **Retrieval-Augmented Generation (RAG) chatbot** built with **Streamlit**, **L
 
 ## ⚙️ Setup & Installation
 ### 1️⃣ Clone Repo
-```bash
+```
 git clone https://github.com/Harshal-2004/RAG.git
 cd <your-repo>
+```
 2️⃣ Install Requirements
+```
 pip install -r requirements.txt
-
+```
 3️⃣ Setup Environment Variables
-
+```
 Create a .env file (not tracked in git):
 GROQ_API_KEY=your_groq_api_key_here
+```
 4️⃣ Build Vectorstores (from PDFs)
+```
 python build_vectorstore.py
-
+```
 5️⃣ Run the Streamlit App
-streamlit run main.py
-
+```streamlit run main.py
+```
 
 🎯 Usage
 
