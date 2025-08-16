@@ -7,7 +7,12 @@ A **Retrieval-Augmented Generation (RAG) chatbot** built with **Streamlit**, **L
 - 🔍 Uses **FAISS** vector database for efficient retrieval  
 - 🧠 Embeddings with HuggingFace `all-MiniLM-L12-v2`  
 - 🎨 ChatGPT-like interface with **Streamlit**  
-- ❌ Hallucination filter (rejects irrelevant answers)  
+- ❌ Hallucination filter (rejects irrelevant answers)
+
+##  App Workflow 
+
+![App UI](assets/RAG_WORKING.webp)
+
 
 ## 🛠️ Tech Stack
 - [Python](https://www.python.org/)  
