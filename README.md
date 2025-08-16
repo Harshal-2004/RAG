@@ -21,13 +21,21 @@ A **Retrieval-Augmented Generation (RAG) chatbot** built with **Streamlit**, **L
 
 .
 ├── data/ # Raw PDF files (before embedding)
+
 ├── vectorstores/ # Precomputed FAISS vector databases
+
 ├── build_vectorstore.py # Script to create embeddings from PDFs
+
 ├── main.py / app.py # Streamlit chatbot app
+
 ├── phase_1.py,2.py,3.py # Experimentation files
+
 ├── .env # API keys (ignored in git)
+
 ├── .env.example # Example environment file
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Project documentation
 
 
