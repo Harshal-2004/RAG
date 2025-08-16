@@ -22,6 +22,10 @@ A **Retrieval-Augmented Generation (RAG) chatbot** built with **Streamlit**, **L
 - [FAISS](https://faiss.ai/)  
 - [HuggingFace Transformers](https://huggingface.co/)  
 
+## 📸 App Screenshot
+
+![App_UI](assets/Screenshot 2025-08-16 224945.png)
+
 ## 📂 Project Structure
 
 .
